@@ -6,4 +6,3 @@
 - 🤔 I’m looking for help with learning to be better at coding
 - 💬 Ask me about finance
 - 📫 How to reach me: diegoalmau.g@gmail.com
-- ⚡ Fun fact: I like coding listening to reggaeton
