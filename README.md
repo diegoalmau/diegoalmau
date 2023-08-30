@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a MSc in Financial Mathematics student at the University of Chicago
+- 🔭 I’m currently a MSc in Financial Mathematics Student at The University of Chicago
+- 💼 I'm seeking a 2024 Summer Internship in Quantitative Research or Trading
 - 🌱 I’m currently learning Python, C++ and R
 - 👯 I’m looking to collaborate on Portfolio Optimization / Algorithmic Trading / Pricing of Financial Derivatives
 - 🤔 I’m looking for help with learning to become better at coding
